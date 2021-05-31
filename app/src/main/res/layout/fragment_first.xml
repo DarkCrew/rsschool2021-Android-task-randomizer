@@ -46,6 +46,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:text="Generate"
+        android:textSize="27sp"
+        android:background="@android:drawable/title_bar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/max_value" />
